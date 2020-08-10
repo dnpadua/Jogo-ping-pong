@@ -1,4 +1,4 @@
-# 🕹️ Jogo Pong desenvolvido em P5.js
+# 🕹️ Jogo Pong desenvolvido em P5.js 
 
 Recriando o jogo Pong em P5.js. Reforçando a lógica de programação com JavaScript é HTML, Pong foi o primeiro videojogo lucrativo da história dando origem a um novo setor na indústria, o de jogos eletrônicos.
 
