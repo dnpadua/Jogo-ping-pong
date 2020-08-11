@@ -4,5 +4,5 @@ Recriando o jogo Pong em P5.js. Reforçando a lógica de programação com JavaS
 
 ![Jogando_pingpong](https://github.com/dnpadua/Jogo-ping-pong/blob/master/PingPong/PingPong.gif)
 
-## Demo
+## 🎮 Demo
 https://editor.p5js.org/daniellcp27/present/08KSaD_aC
